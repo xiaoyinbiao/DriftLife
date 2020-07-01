@@ -1,0 +1,2 @@
+export const CHANGE_EDIT_INREDUCER = 'write/CHANGE_EDIT_INREDUCER';
+export const CHANGE_ARTICLE_ID = 'write/CHANGE_ARTICLE_ID';

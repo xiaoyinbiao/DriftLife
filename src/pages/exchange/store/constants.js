@@ -1,0 +1,9 @@
+export const CHANGE_EXCHANGE_LIST = 'exchange/CHANGE_EXCHANGE_LIST';
+export const CHANGE_CONTENT_VALUES = 'exchange/CHANGE_CONTENT_VALUES';
+export const CHANGE_SESSION_LIST = 'exchange/CHANGE_SESSION_LIST';
+export const ADD_LOACAL_SESSION = 'exchange/ADD_LOACAL_SESSION';
+export const CHANGE_SELECT_SESSION = 'exchange/CHANGE_SELECT_SESSION';
+export const CHANGE_HEADER_NAME = 'exchange/CHANGE_HEADER_NAME';
+export const RESET_EXCHANGE_LIST = 'exchange/RESET_EXCHANGE_LIST';
+export const CHANGE_FRIEND_ID = 'exchange/CHANGE_FRIEND_ID';
+

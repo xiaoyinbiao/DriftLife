@@ -1,0 +1,9 @@
+export const CHANGE_DETAIL = 'detail/CHANGE_DETAIL';
+export const CHANGE_COMMENT_VALUE = 'detail/CHANGE_COMMENT_VALUE';
+export const ADD_COMMENTS = '/detail/ADD_COMMENTS';
+export const CHANGE_ARTICLE_STATES = 'detail/CHANGE_ARTICLE_STATES';
+export const CHANGE_DRAWER_VISIBLE = 'detail/CHANGE_DRAWER_VISIBLE';
+export const CHANGE_SUBMIT_REPLY_STATE = 'detail/CHANGE_SUBMIT_REPLY_STATE';
+export const CHANGE_REPLY_VALUE = 'detail/CHANGE_REPLY_VALUE';
+export const CHANGE_REPLY_INFO = 'detail/CHANGE_REPLY_INFO';
+export const CHANGE_REPLY_LIST = 'detail/CHANGE_REPLY_LIST';

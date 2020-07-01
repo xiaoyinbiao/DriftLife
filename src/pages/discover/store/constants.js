@@ -1,0 +1,4 @@
+export const CHANGE_DISCOVER_ARTICLE = 'discover/CHANGE_DISCOVER_ARTICLE';
+export const ADD_DISCOVER_LIDT = 'discover/ADD_DISCOVER_LIDT';
+export const RESET_DISCOVER_PAGE = 'discover/RESET_DISCOVER_PAGE';
+
